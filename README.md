@@ -17,8 +17,9 @@ El conjunto de datos comprende *10 especies representativas de abejas sin aguij�
 
 El dataset cubre las siguientes 10 especies pertenecientes a la tribu Meliponini en Ecuador:
 
+
 | N° | Especie | Nombre Común Local | Imágenes Editadas | Fuente / Ubicación Principal |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | 1 | Cephalotrigona capitata | Pulao | 499 | Meliponario Nativa (Piñas, El Oro) |
 | 2 | Leurotrigona muelleri | - | 449 | Meliponario Nativa (Piñas, El Oro) |
 | 3 | Melipona eburnea | - | 122 | iNaturalist / Meliponicultores de Ecuador |
